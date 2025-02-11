@@ -28,6 +28,6 @@ I skimmed through but found not suitable for me...
 
 | Title | Author | Published Date | Programming Language | Note Link | Image | Amazon Link |
 |-------|--------|----------------|----------------------|-----------|---|---|
-| 100 Java Mistakes and How to Avoid Them   | Tagir Valeev       |                |                      |           | <img src="https://m.media-amazon.com/images/I/61Wt+uZ2vaL._SY522_.jpg" width="100"> | |
+| 100 Java Mistakes and How to Avoid Them   | Tagir Valeev       |                |                      |           | <img src="https://m.media-amazon.com/images/I/61Wt+uZ2vaL._SY522_.jpg" width="100"> | [amazon](https://www.amazon.com/100-Java-Mistakes-Avoid-Them/dp/1633437965)|
 |       |        |                |                      |           |            | |
 |       |        |                |                      |           |            | | 
